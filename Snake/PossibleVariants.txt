@@ -1,0 +1,6 @@
+﻿1. Right Food generation 
+2. Snake check body
+3. Game status (score and next level logic)
+4. Save/Pause and Continue
+5. Bonus meal
+6. Look and Feel (game over location, color of super meal)
